@@ -16,25 +16,25 @@ years:
             link: '/al'
             image: assets/al.svg
             color: '#303f9f'
-          - name: FP
+          - name: ITN
             description: P1
-            link: '/fp'
-            image: assets/fp.svg
+            link: '/itn'
+            image: assets/itn.svg
             color: '#d32f2f'
-          - name: LP
+          - name: CG
             description: P2
-            link: '/lp'
-            image: assets/lp.svg
+            link: '/cg'
+            image: assets/cg.svg
             color: '#33691e'
-          - name: IEI
+          - name: EP
             description: P1
-            link: '/iei'
-            image: assets/iei.svg
+            link: '/ep'
+            image: assets/ep.svg
             color: '#f57f17'
-          - name: Gestão
+          - name: ME
             description: P2
-            link: '/ges'
-            image: assets/ges.svg
+            link: '/me'
+            image: assets/me.svg
             color: '#00695c'
       - name: '2º Semestre'
         courses:
@@ -43,27 +43,23 @@ years:
             link: '/cdi-ii'
             image: assets/cdi2.svg
             color: '#1565c0'
-            long: true
-          - name: IAED
+            long:true
+          - name: Álgebra
+            description: S2
+            link: '/alge'
+            image: assets/alge.svg
+            color: '#1565c0'            
+            long:true            
+          - name: IO
             description: P3
-            link: '/iaed'
-            image: assets/iaed.svg
+            link: '/io'
+            image: assets/io.svg
             color: '#c62828'
-          - name: IAC
+          - name: MO
             description: P4
-            link: '/iac'
-            image: assets/iac.svg
+            link: '/mo'
+            image: assets/mo.svg
             color: '#ff6f00'
-          - name: Física I
-            description: P3
-            link: '/fis-i'
-            image: assets/fis1.svg
-            color: '#00695c'
-          - name: EMD
-            description: P4
-            link: '/emd'
-            image: assets/md.svg
-            color: '#283593'
   - name: '2º Ano'
     semesters:
       - name: '1º Semestre'
@@ -73,26 +69,30 @@ years:
             link: '/cdi-iii'
             image: assets/cdi3.svg
             color: '#0d47a1'
-            long: true
-          - name: PO
-            description: P1
-            link: '/po'
-            image: assets/po.svg
+          - name: IG
+            description: S1
+            link: '/ig'
+            image: assets/ig.svg
             color: '#b71c1c'
-          - name: SO
-            description: P2
-            link: '/so'
-            image: assets/so.svg
+          - name: PE
+            description: S1
+            link: '/pe'
+            image: assets/pe.svg
+            color: '#b71c1c'            
+          - name: TFE
+            description: S1
+            link: '/tfe'
+            image: assets/tfe.svg
             color: '#f57f17'
-          - name: Física II
+          - name: IAC
             description: P1
-            link: '/fis-ii'
-            image: assets/fis2.svg
+            link: '/iac'
+            image: assets/iac.svg
             color: '#004d40'
-          - name: ASA
+          - name: Gestão
             description: P2
-            link: '/asa'
-            image: assets/asa.svg
+            link: '/ges'
+            image: assets/ges.svg
             color: '#33691e'
       - name: 2º Semestre
         courses:
