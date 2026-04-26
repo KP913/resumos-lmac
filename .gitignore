@@ -4,6 +4,8 @@ public/
 .vscode/
 src/.vuepress/dist
 yarn-error.log
+package-lock.json
+yarn.lock
 
 # nix-direnv
 .direnv/

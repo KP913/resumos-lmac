@@ -43,13 +43,13 @@ years:
             link: '/cdi-ii'
             image: assets/cdi2.svg
             color: '#1565c0'
-            long:true
+            long: true
           - name: Álgebra
             description: S2
             link: '/alge'
             image: assets/alge.svg
             color: '#1565c0'            
-            long:true            
+            long: true            
           - name: IO
             description: P3
             link: '/io'
@@ -96,92 +96,121 @@ years:
             color: '#33691e'
       - name: 2º Semestre
         courses:
-          - name: PE
+          - name: CPE
             description: S2
-            link: '/pe'
-            image: assets/pe.svg
+            link: '/cpe'
+            image: assets/cpe.svg
             color: '#9c27b0'
-            long: true
-          - name: TC
+          - name: ICC
+            description: S2
+            link: '/icc'
+            image: assets/icc.svg
+            color: '#9c27b0'
+          - name: MC
             description: P3
-            link: '/tc'
-            image: assets/tc.svg
+            link: '/mc'
+            image: assets/mc.svg
             color: '#e53935'
-          - name: BD
+          - name: EO
             description: P4
-            link: '/bd'
-            image: assets/bd.svg
+            link: '/eo'
+            image: assets/eo.svg
             color: '#757575'
-          - name: IPM
+          - name: ALin
             description: P3
-            link: '/ipm'
-            image: assets/ipm.svg
+            link: '/alin'
+            image: assets/alin.svg
             color: '#2e7d32'
-          - name: IA
+          - name: GRep
             description: P4
-            link: '/ia'
-            image: assets/ia.svg
+            link: '/grep'
+            image: assets/grep.svg
             color: '#3f51b5'
-  - name: '3º Ano'
-    semesters:
-      - name: '1º Semestre'
-        courses:
-          - name: OC
-            description: P1
-            link: '/oc'
-            image: assets/oc.svg
-            color: '#e65100'
-          - name: AMS
-            description: P2
-            link: '/ams'
-            image: assets/ams.svg
-            color: '#ff5252'
-          - name: Apre
-            description: P1
-            link: '/apre'
-            image: assets/apre.svg
-            color: '#534bae'
-          - name: RC
-            description: P2
-            link: '/rc'
-            image: assets/rc.svg
-            color: '#524c00'
-      - name: 2º Semestre
-        courses:
-          - name: SD
+          - name: AFA
             description: P3
-            link: '/sd'
-            image: assets/sd.svg
-            color: '#827717'
-          - name: Comp
-            description: P4
-            link: '/comp'
-            image: assets/comp.svg
-            color: '#c50e29'
-          - name: ES
-            description: P3
-            link: '/es'
-            image: assets/es.svg
-            color: '#c56000'
-          - name: CG
-            description: P4
-            link: '/cg'
-            image: assets/cg.svg
+            link: '/afa'
+            image: assets/afa.svg
             color: '#3f51b5'
-  - name: 'HACS'
-    semesters:
-      - name: ''
-        courses:
-          - name: IEco
-            description: P1/P2
-            link: '/ieco'
-            image: assets/ieco.svg
-            color: '#00766c'
-          - name: DER
-            description: P1
-            link: '/der'
-            image: assets/der.svg
-            color: '#b61827'
+          - name: ALN
+            description: P4
+            link: '/aln'
+            image: assets/aln.svg
+            color: '#3f51b5'
+          - name: LECD
+            description: P3
+            link: '/lecd'
+            image: assets/lecd.svg
+            color: '#3f51b5'
+          - name: TG
+            description: P4
+            link: '/tg'
+            image: assets/tg.svg
+            color: '#3f51b5'
+          - name: PVA
+            description: P3
+            link: '/pva'
+            image: assets/pva.svg
+            color: '#3f51b5'
+  # - name: '3º Ano'
+  #   semesters:
+  #     - name: '1º Semestre'
+  #       courses:
+  #         - name: OC
+  #           description: P1
+  #           link: '/oc'
+  #           image: assets/oc.svg
+  #           color: '#e65100'
+  #         - name: AMS
+  #           description: P2
+  #           link: '/ams'
+  #           image: assets/ams.svg
+  #           color: '#ff5252'
+  #         - name: Apre
+  #           description: P1
+  #           link: '/apre'
+  #           image: assets/apre.svg
+  #           color: '#534bae'
+  #         - name: RC
+  #           description: P2
+  #           link: '/rc'
+  #           image: assets/rc.svg
+  #           color: '#524c00'
+  #     - name: 2º Semestre
+  #       courses:
+  #         - name: SD
+  #           description: P3
+  #           link: '/sd'
+  #           image: assets/sd.svg
+  #           color: '#827717'
+  #         - name: Comp
+  #           description: P4
+  #           link: '/comp'
+  #           image: assets/comp.svg
+  #           color: '#c50e29'
+  #         - name: ES
+  #           description: P3
+  #           link: '/es'
+  #           image: assets/es.svg
+  #           color: '#c56000'
+  #         - name: CG
+  #           description: P4
+  #           link: '/cg'
+  #           image: assets/cg.svg
+  #           color: '#3f51b5'
+  # - name: 'HACS'
+  #   semesters:
+  #     - name: ''
+  #       courses:
+  #         - name: IEco
+  #           description: P1/P2
+  #           link: '/ieco'
+  #           image: assets/ieco.svg
+  #           color: '#00766c'
+  #         - name: DER
+  #           description: P1
+  #           link: '/der'
+  #           image: assets/der.svg
+  #           color: '#b61827'
 ---
 
 ## Links úteis
