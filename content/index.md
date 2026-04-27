@@ -16,6 +16,7 @@ years:
             link: '/al'
             image: assets/al.svg
             color: '#303f9f'
+            long: false
           - name: ITN
             description: P1
             link: '/itn'
@@ -48,8 +49,8 @@ years:
             description: S2
             link: '/alge'
             image: assets/alge.svg
-            color: '#1565c0'            
-            long: true            
+            color: '#1565c0'
+            long: true
           - name: IO
             description: P3
             link: '/io'
@@ -78,7 +79,7 @@ years:
             description: S1
             link: '/pe'
             image: assets/pe.svg
-            color: '#b71c1c'            
+            color: '#b71c1c'
           - name: TFE
             description: S1
             link: '/tfe'
@@ -211,6 +212,7 @@ years:
   #           link: '/der'
   #           image: assets/der.svg
   #           color: '#b61827'
+components: ["Hero", "CTA"]
 ---
 
 ## Links úteis

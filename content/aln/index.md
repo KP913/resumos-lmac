@@ -1,6 +1,6 @@
 ---
 title: Nome da Cadeira
-path: /codigodacadeira
+path: /aln
 type: topLevelPage
 ---
 

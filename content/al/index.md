@@ -3,7 +3,7 @@ title: Álgebra Linear
 path: /al
 type: topLevelPage
 ---
-
+<!-- 
 # Álgebra Linear
 
 > A cadeira tem como objetivos o domínio do cálculo matricial e de métodos para resolver sistemas de equações lineares, bem como de espaços vetoriais e de transformações lineares.  
@@ -21,4 +21,4 @@ todas as contribuições são bem-vindas!
 
 ## Recursos
 
-- [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
+- [Immersive Linear Algebra](https://immersivemath.com/ila/index.html) -->

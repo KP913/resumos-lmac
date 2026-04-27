@@ -7,7 +7,7 @@ description: >-
   Incógnitas dependentes/livres.
   Transformações sobre as linhas de uma matriz.
   Processo de Eliminação de Gauss.
-path: /al/introducao
+path: /itn/0003-naturais-e-inducao
 type: content
 ---
 

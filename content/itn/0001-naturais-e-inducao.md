@@ -38,9 +38,6 @@ $\forall a,b,c \in \mathbb{N}$
 [**Lei do Corte para o Produto**](color:green): $ac=bc \and c \neq 0 \Rarr a=b$
 [**Elemento Neutro do Produto**](color:green): $a1=a$
 
-
-
-
 ## Sistemas de Equações Lineares (SEL)
 
 :::info[Equação Linear]
