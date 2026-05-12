@@ -4,11 +4,11 @@ description: >-
   Propriedades dos Números Naturais.
   Princípio da Boa Ordenação
   Princípio da Indução Finita.
-path: /itn/0001-naturais-e-inducao
+path: /itn/naturais-e-inducao
 type: content
 ---
 
-# Introdução à Álgebra Linear
+# Números Naturais e Indução
 
 ```toc
 
@@ -29,14 +29,37 @@ Consideremos também as operações de [**soma**](color:green) e de [**produto**
 $\forall a,b,c \in \mathbb{N}$
 
 [**Associatividade da Soma**](color:green): $\lparen a+b \rparen +c= a+ \lparen b+c \rparen$
+
 [**Comutatividade da Soma**](color:green): $a+b=b+a$
+
 [**Lei do Corte para a Soma**](color:green): $a+c=b+c \Rarr a=b$
+
 [**Elemento Neutro da Soma**](color:green): $a+0=a$
 
-[**Associatividade do Produto**](color:green): $\lparen ab \rparen c= a \lparen bc \rparen$
-[**Comutatividade do Produto**](color:green): $ab=ba$
-[**Lei do Corte para o Produto**](color:green): $ac=bc \and c \neq 0 \Rarr a=b$
-[**Elemento Neutro do Produto**](color:green): $a1=a$
+[**Associatividade do Produto**](color:red): $\lparen ab \rparen c= a \lparen bc \rparen$
+
+[**Comutatividade do Produto**](color:red): $ab=ba$
+
+[**Lei do Corte para o Produto**](color:red): $ac=bc \and c \neq 0 \Rarr a=b$
+
+[**Elemento Neutro do Produto**](color:red): $a1=a$
+
+[**Distributividade**](color:orange): $a(b+c)=ab+ac$
+
+:::
+
+### Princípio da Boa Ordenação
+
+Uma propriedade importante do conjunto dos números naturais é que **para qualquer subconjunto dele, existe um primeiro elemento**. Ou seja, $X\subset \mathbb{N},\exists x_{0} \in X:x< x_{0} \Longrightarrow x\notin X$. Este $x_0$ é menor ou igual do que qualquer elemento de $X$, logo se houver um número natural menor do que $x_0$, não pertence a $X$.
+
+
+:::tip[Exemplos]
+
+$X=\left{
+
+
+## 
+
 
 ## Sistemas de Equações Lineares (SEL)
 
